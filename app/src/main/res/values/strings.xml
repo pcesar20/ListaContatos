@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ListaContatos</string>
+    <string name="escolha_um_contato">Escolha um contato:</string>
+    <string-array name="contatos">
+        <item>Thais</item>
+        <item>Paulo</item>
+        <item>Mãe</item>
+        <item>Juliana</item>
+        <item>Marcos</item>
+        <item>Rogerio</item>
+    </string-array>
+    <string name="teste">teste</string>
+
+</resources>
